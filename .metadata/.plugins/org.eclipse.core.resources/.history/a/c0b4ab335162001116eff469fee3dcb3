@@ -1,0 +1,8 @@
+public class Student {
+    private int sid;
+    private String sname;
+    private int sage;
+    private String ssex;
+    private String sclass;
+    // 无参/有参构造 + getter/setter
+}
