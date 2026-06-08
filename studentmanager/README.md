@@ -167,12 +167,6 @@ http://localhost:8080/studentmanager/
                                          ┌─────────────┐
                                          │   MySQL     │
                                          └─────────────┘
-```
-
-## 作者
-
-[你的名字]
-
 ## 许可证
 
 This project is for educational purposes.
